@@ -1,0 +1,14 @@
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\bin\Debug\ACM.ConsoleApp.exe.config
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\bin\Debug\ACM.ConsoleApp.exe
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\bin\Debug\ACM.ConsoleApp.pdb
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\bin\Debug\ACM.BL.dll
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\bin\Debug\ACM.BL.pdb
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\obj\Debug\ACM.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\obj\Debug\ACM.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\obj\Debug\ACM.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\obj\Debug\ACM.ConsoleApp.csproj.CopyComplete
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\obj\Debug\ACM.ConsoleApp.exe
+C:\Users\Hanne\OneDrive\Skrivbord\LexiconFolders\repos\ACM\ACM.ConsoleApp\obj\Debug\ACM.ConsoleApp.pdb
